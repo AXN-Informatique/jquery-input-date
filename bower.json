@@ -1,0 +1,26 @@
+{
+  "name": "jquery-input-date",
+  "homepage": "https://github.com/AXN-Informatique/jquery-input-date",
+  "authors": [
+    "AXn Informatique"
+  ],
+  "description": "",
+  "main": "jquery.input-date.js",
+  "keywords": [
+    "jquery",
+    "jquery-plugin"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.0",
+    "bootstrap-datepicker": "~1.7.0",
+    "jquery.inputmask": "~3.3.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
