@@ -12,7 +12,7 @@
         {
             if (this.length > 1) {
                 this.each(function() {
-                    $(this).date();
+                    $(this).inputDate();
                 });
                 return this;
             }
