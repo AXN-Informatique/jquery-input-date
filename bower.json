@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "jquery": "^3.3.0",
-    "bootstrap-datepicker": "~1.7.0",
+    "bootstrap-datepicker": "~1.8.0",
     "jquery.inputmask": "~3.3.0"
   },
   "ignore": [
