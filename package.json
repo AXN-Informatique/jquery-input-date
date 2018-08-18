@@ -1,11 +1,8 @@
 {
   "name": "jquery-input-date",
-  "description": "jQuery \"input date\" plugin",
-  "version": "0.3",
+  "version": "0.4.0",
+  "description": "jQuery \"input date\" plugin\r ==========================",
   "main": "jquery.input-date.js",
-  "dependencies": {
-    "jquery": "^3.2"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/AXN-Informatique/jquery-input-date.git"
   },
-  "author": "AXN Informatique",
+  "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/AXN-Informatique/jquery-input-date/issues"
