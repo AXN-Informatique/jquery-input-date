@@ -1,0 +1,24 @@
+{
+  "name": "jquery-input-date",
+  "description": "jQuery \"input date\" plugin",
+  "version": "0.3",
+  "main": "jquery.input-date.js",
+  "dependencies": {
+    "jquery": "^3.2",
+    "bootstrap-datepicker": "~1.8.0",
+    "jquery.inputmask": "~3.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AXN-Informatique/jquery-input-date.git"
+  },
+  "author": "AXN Informatique",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AXN-Informatique/jquery-input-date/issues"
+  },
+  "homepage": "https://github.com/AXN-Informatique/jquery-input-date#readme"
+}
