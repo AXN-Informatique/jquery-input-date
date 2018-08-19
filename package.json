@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/AXN-Informatique/jquery-input-date/issues"
   },
-  "homepage": "https://github.com/AXN-Informatique/jquery-input-date#readme"
+  "homepage": "https://github.com/AXN-Informatique/jquery-input-date#readme",
+  "dependencies": {
+    "bootstrap-datepicker": "^1.8.0",
+    "jquery": "^3.3.1",
+    "jquery.inputmask": "^3.3.4"
+  },
+  "devDependencies": {}
 }
